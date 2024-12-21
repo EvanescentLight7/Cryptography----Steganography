@@ -1279,6 +1279,26 @@ html {
   --tw-shadow: var(--tw-shadow-colored);
 }
 
+.shadow-emerald-950 {
+  --tw-shadow-color: #022c22;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-emerald-800 {
+  --tw-shadow-color: #065f46;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-violet-900 {
+  --tw-shadow-color: #4c1d95;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-emerald-900 {
+  --tw-shadow-color: #064e3b;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
 .blur {
   --tw-blur: blur(8px);
   filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
@@ -1514,6 +1534,11 @@ html {
 .hover\:file\:text-sky-500::file-selector-button:hover {
   --tw-text-opacity: 1;
   color: rgb(14 165 233 / var(--tw-text-opacity, 1));
+}
+
+.hover\:file\:text-emerald-500::file-selector-button:hover {
+  --tw-text-opacity: 1;
+  color: rgb(16 185 129 / var(--tw-text-opacity, 1));
 }
 
 .focus\:outline-none:focus {
