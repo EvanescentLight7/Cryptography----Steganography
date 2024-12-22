@@ -185,7 +185,6 @@ const encryptCrypto = () => {
   cipherText.textContent = result;
   console.log(result);
 
-  // Show display result when conditions are met
   displayResult.classList.remove("hidden");
 };
 
