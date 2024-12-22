@@ -81,7 +81,7 @@ const substitutionTable = {
   P: "I ",
   Q: "Pr",
   R: "Pm",
-  S: "Pm",
+  S: "Ho",
   T: "Lu",
   U: "Ta",
   V: "Au",
